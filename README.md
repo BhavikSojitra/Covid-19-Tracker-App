@@ -1,2 +1,2 @@
 # Covid-19-Tracker-App
-A COVID-19 TRACKER ANDROID APP TO SEE DETAILS OF ANY CITY AND STATE IN INDIA
+A Covid-19 Tracker Android App to see Details of any city and state in India.
